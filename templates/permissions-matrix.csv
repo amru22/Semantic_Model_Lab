@@ -1,0 +1,4 @@
+role_or_account,can_view_report,can_edit_report,can_build_from_model,can_reshare,notes
+Author (Build + Contributor),,,,,
+Consumer (Viewer),,,,,
+Optional over-privileged test user,,,,,
